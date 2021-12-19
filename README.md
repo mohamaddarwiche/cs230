@@ -6,6 +6,7 @@ A software design document was a great way to keep everyone in the loop, especia
 Yes, as previously stated, this kept everyone in the loop from the technical side to functionality to process and requirements.
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 I would go back and revise the evaluation section because I could use more digging between OS's and be able to provide a better solution.
-# How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designinClients are not always developers. They have specific requirements that must be met. However, in our world, soft skills, in addition to technical skills, are required. We must be able to persuade the client that any change will benefit the system in a variety of ways (security, speed, look and feel, etc)
+# How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designin
+Clients are not always developers. They have specific requirements that must be met. However, in our world, soft skills, in addition to technical skills, are required. We must be able to persuade the client that any change will benefit the system in a variety of ways (security, speed, look and feel, etc)
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 I would absolutely use a software design template form to track the technical requirements and then fulfill those requirements while delivering the project to a high standard and in accordance with ethical standards.
